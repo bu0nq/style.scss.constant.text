@@ -1,20 +1,20 @@
 {
-  "name": "@bu0nq/style.scss.constant.text",
+  "name": "@bu0nq/style.scss.constant.text-size",
   "version": "0.1.0",
-  "description": "Package for integrating Style.SCSS.Constant.Text",
-  "main": "text.scss",
+  "description": "Package for integrating Style.SCSS.Constant.TextSize",
+  "main": "text-size.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bu0nq/style.scss.constant.text.git"
+    "url": "git+https://github.com/bu0nq/style.scss.constant.text-size.git"
   },
   "keywords": [
     "style",
     "scss",
     "constant",
-    "text"
+    "text-size"
   ],
   "author": {
     "name": "bu0nq",
@@ -22,9 +22,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bu0nq/style.scss.constant.text/issues"
+    "url": "https://github.com/bu0nq/style.scss.constant.text-size/issues"
   },
-  "homepage": "https://github.com/bu0nq/style.scss.constant.text#readme",
+  "homepage": "https://github.com/bu0nq/style.scss.constant.text-size#readme",
   "publishConfig": {
     "access": "public"
   }
